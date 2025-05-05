@@ -1,6 +1,6 @@
 # welcome
 
-[resume](/rachelbeaulac_resume2025.pdf)
+[resume](/docs/rachelbeaulac_resume2025.pdf)
 
 ### find me on
 - [linkedin](https://linkedin.com/in/rachel-beaulac)
