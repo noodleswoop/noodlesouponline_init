@@ -1,3 +1,5 @@
-# please start here
+# noodle soup's test page
 
-not entirely sure what this means yet
+hello and welcome. please be patient because i have no idea what i'm doing!
+
+[about](/about.html)
